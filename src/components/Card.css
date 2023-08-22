@@ -1,0 +1,8 @@
+.card {
+    width: 400px;
+    max-width: 90vw;
+    height: 400px;
+    background: linear-gradient(hsl(213, 19%, 18%), hsl(216, 12%, 8%) 130%);
+    border-radius: 1.25rem;
+    padding: 2rem;
+}
